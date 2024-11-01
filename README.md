@@ -6,7 +6,8 @@ Experimental Psychology, M.A.
 
 ### Work Experience
 Research Consultant at Appalachian State University
-- big impact project 1
-- big impact project 2
+- Utilizing critical thinking and statistical abilities to solve complex problems.
+- Proficient in report writing, presentations, and grant writing.
+- Managing projects with quick turnaround periods that cater to specific client needs.
 
 ### Projects
