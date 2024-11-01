@@ -1,4 +1,3 @@
-# dangelo_portfolio
 # Research Consultant
 
 ### Education
