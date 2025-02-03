@@ -10,4 +10,5 @@ Research and Data Analytics Consultant at Appalachian State University
 - Managing projects with quick turnaround periods that cater to specific client needs.
 
 ### Projects
-## College Access Report
+#### College Access Report
+D'Angelo_College Access.pdf
