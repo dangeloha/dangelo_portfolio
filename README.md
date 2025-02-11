@@ -1,5 +1,5 @@
 # Hannah D'Angelo
-## Research and Data Analytics Consultant
+### Research and Data Analytics Consultant
 
 ### Education
 Experimental Psychology, M.A.
